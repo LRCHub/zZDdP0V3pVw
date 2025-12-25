@@ -1,0 +1,320 @@
+{
+  "version": 1,
+  "base_track": "Dreams Come True",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-25T01:48:14.159828Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Until My Dreams Come True",
+      "artist": "Jack Greene",
+      "has_synced": false,
+      "path": "select/01_Until_My_Dreams_Come_True_Jack_Greene.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dreams Come True",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/02_Dreams_Come_True_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Some Dreams Come True",
+      "artist": "The Bangles",
+      "has_synced": true,
+      "path": "select/03_Some_Dreams_Come_True_The_Bangles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dreams-Come-True-Girl",
+      "artist": "Cass McCombs",
+      "has_synced": true,
+      "path": "select/04_Dreams-Come-True-Girl_Cass_McCombs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dreams Come True",
+      "artist": "Rich Gang feat. Yo Gotti, Ace Hood, Mack Maine & Birdman",
+      "has_synced": true,
+      "path": "select/05_Dreams_Come_True_Rich_Gang_feat._Yo_Gotti,_Ace_Hood,_Mack_Maine_&_Birdman.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dreams Come True (Feat. Yo Gotti, Ace Hood, Mack Maine, Birdman)",
+      "artist": "Rich Gang",
+      "has_synced": true,
+      "path": "select/06_Dreams_Come_True_(Feat._Yo_Gotti,_Ace_Hood,_Mack_Maine,_Birdman)_Rich_Gang.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sometimes Dreams Come True",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/07_Sometimes_Dreams_Come_True_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sometimes Dreams Come True",
+      "artist": "Koda Kumi",
+      "has_synced": true,
+      "path": "select/08_Sometimes_Dreams_Come_True_Koda_Kumi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Making Our Dreams Come True",
+      "artist": "Cyndi Grecco",
+      "has_synced": false,
+      "path": "select/09_Making_Our_Dreams_Come_True_Cyndi_Grecco.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Make My Dreams Come True",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": true,
+      "path": "select/10_You_Make_My_Dreams_Come_True_Daryl_Hall_&_John_Oates.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Make My Dreams (Come True)",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": true,
+      "path": "select/11_You_Make_My_Dreams_(Come_True)_Daryl_Hall_&_John_Oates.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dreams Come True",
+      "artist": "Beyond Fear",
+      "has_synced": true,
+      "path": "select/12_Dreams_Come_True_Beyond_Fear.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wire and Glass (Part 1) [Sound Round, Pick Up the Peace, Endless Wire, We Got A Hit, They Make My Dreams Come True]",
+      "artist": "The Who",
+      "has_synced": false,
+      "path": "select/13_Wire_and_Glass_(Part_1)_[Sound_Round,_Pick_Up_the_Peace,_Endless_Wire,_We_Got_A__The_Who.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Make My Dreams Come True",
+      "artist": "Elmore James",
+      "has_synced": false,
+      "path": "select/14_Make_My_Dreams_Come_True_Elmore_James.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hope Your Dreams Come True",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/15_Hope_Your_Dreams_Come_True_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "If Dreams Come True",
+      "artist": "Billie Holiday",
+      "has_synced": false,
+      "path": "select/16_If_Dreams_Come_True_Billie_Holiday.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Some Dreams Come True",
+      "artist": "The Bangles",
+      "has_synced": true,
+      "path": "select/17_Some_Dreams_Come_True_The_Bangles.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Wildest Dreams",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/18_Wildest_Dreams_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Wildest Dreams",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/19_Wildest_Dreams_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Never Give up on Your Dreams",
+      "artist": "Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/20_Never_Give_up_on_Your_Dreams_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Dreams",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/21_Dreams_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Dreams",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/22_Dreams_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Big Dreams and Faded Jeans",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/23_Big_Dreams_and_Faded_Jeans_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Dreaming My Dreams With You",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/24_Dreaming_My_Dreams_With_You_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Dreams",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/25_Dreams_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "In My Wildest Dreams",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/26_In_My_Wildest_Dreams_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Refried Dreams",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/27_Refried_Dreams_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Of You) - Single Version",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/28_Sweet_Dreams_(Of_You)_-_Single_Version_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Of You) (Single Version)",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/29_Sweet_Dreams_(Of_You)_(Single_Version)_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Sweet Dreams Of You",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/30_Sweet_Dreams_Of_You_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Sweet Dreams",
+      "artist": "Alan Walker feat. Imanbek",
+      "has_synced": true,
+      "path": "select/31_Sweet_Dreams_Alan_Walker_feat._Imanbek.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Sweet Dreams",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/32_Sweet_Dreams_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "You Make My Dreams",
+      "artist": "Rascal Flatts",
+      "has_synced": false,
+      "path": "select/33_You_Make_My_Dreams_Rascal_Flatts.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Ashes of Dreams / New (ver.1.22474487139...)",
+      "artist": "岡部啓一(MONACA)",
+      "has_synced": false,
+      "path": "select/34_Ashes_of_Dreams___New_(ver.1.22474487139...)_岡部啓一(MONACA).txt"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Rock And Roll Dreams Come Through",
+      "artist": "Meat Loaf",
+      "has_synced": true,
+      "path": "select/35_Rock_And_Roll_Dreams_Come_Through_Meat_Loaf.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Rock and Roll Dreams Come Through",
+      "artist": "Meat Loaf",
+      "has_synced": true,
+      "path": "select/36_Rock_and_Roll_Dreams_Come_Through_Meat_Loaf.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Rock and Roll Dreams Come Through",
+      "artist": "Jim Steinman",
+      "has_synced": true,
+      "path": "select/37_Rock_and_Roll_Dreams_Come_Through_Jim_Steinman.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Rock&roll dreams come through",
+      "artist": "Meat Loaf",
+      "has_synced": true,
+      "path": "select/38_Rock&roll_dreams_come_through_Meat_Loaf.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dreams Come True",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Dreams_Come_True_aespa.txt"
+    }
+  ]
+}
